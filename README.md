@@ -9,9 +9,11 @@
 
 ## Introduction
 <p align="left">
-This is C++ based QT application. 
-  As the name suggests
-We
+A Cpp based Web Application made with Qt creator . 
+
+As the name suggests it is a Grocery products processing  application with a simple UI which makes it easy to understand and use . It can be used by both retail shopkeepers and wholesalers , for maintaining their records ..  I have implemented DOP (Date of Purchase ) and DOS(Date of Sale)  through which tracking becomes serene .
+
+It is recommended if you can use Qt creator for building this application .
 </p>
 
 ## Tools
