@@ -23,7 +23,8 @@ We
 
 * Add Item 
 
-    ![Screenshot from 2022-04-07 14-11-17](https://user-images.githubusercontent.com/70382629/162158928-297e66a2-3d0c-41d1-865c-f99f13d41ae7.png)
+![Screenshot from 2022-04-07 15-36-53](https://user-images.githubusercontent.com/70382629/162176420-0de24b30-18f5-40f5-8648-bb4671f5b736.png)
+
 
 * Update Item
 
